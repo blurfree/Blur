@@ -11,7 +11,7 @@ import SwiftUI
 struct BlurApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
