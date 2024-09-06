@@ -2,3 +2,5 @@
 
 # Ignore Xcode asset catalogs
 *.xcassets
+
+/Assets/*
